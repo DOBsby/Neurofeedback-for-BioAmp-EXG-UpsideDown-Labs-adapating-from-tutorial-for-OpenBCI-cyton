@@ -1,5 +1,11 @@
 # Neurofeedback-tutorial-OpenBCI-cyton
-This repository contains the code that is mentioned in the neurofeedback tutorial guide.
+This repository contains the code that is mentioned in this neurofeedback tutorial guide:
+
+https://openbci.com/community/build-your-own-neurofeedback-game-with-openbci/
+
+
+OpenBCI also have a guide on using neuromore which might be useful
+https://docs.openbci.com/Software/CompatibleThirdPartySoftware/Neuromore/
 
 openbci_neuromore.py - This script sends the EEG data from OpenBCI GUI to neuromore studio.
 
