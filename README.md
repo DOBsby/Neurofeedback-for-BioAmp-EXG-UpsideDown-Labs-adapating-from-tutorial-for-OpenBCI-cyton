@@ -1,4 +1,4 @@
-# Neurofeedback-tutorial-OpenBCI-cyton
+# Based on the Neurofeedback tutorial for OpenBCI-cyton (adapting for UpsideDownLabs' BioAmp EXG Pill)
 
 I got a BioAmp EXG recently on my first visit to India that I mean to use for neurofeedback. This repo began as a fork of the code from a simple neurofeedback guide[1] which uses the open source Neuromore Studio [2], which is "block programmed" (think Labview, Scratch, Simulink etc.).  In the (substantial) exploration phase, I discovered, firstly, there was too much to that tutorial (controlling a car with your brain is cool, but it's not what I'm looking for and you don't really get that fine grained control anyway) and secondly, there is a lot in there that is more explained in the video, but still leaves a beginner (like I was) scratching their heads. I might wind up rewriting the tutorial for my own learning as well as to  make it easier for others. That, and it'd help anyone looking to use their Bioamp EXG for neurofeedback
 
